@@ -1,5 +1,3 @@
-const a = () => {
-    console.log('I am xiaoWang');
-}
+import './x.css'
 
 export default a;
